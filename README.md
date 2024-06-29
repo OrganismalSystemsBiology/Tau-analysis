@@ -36,7 +36,7 @@ Further analysis is conducted through the following advanced procedures:
 1. Summary of Regional pTau Depositions: Refer to Supplementary Table 1, "**Supplementary Table 1. Regional tau profile data with each anatomical annotation.xlsx**" for a detailed breakdown.
 2. Source pTau Distribution Data for Three Samples: See Supplementary Table 2, "**Supplementary Table 2. Source data for single-deposition-level tau profiles from three 18-month-old Rosa26-KI Tau++tTA+ mice**" for specific data.
 
-Note: This code does not currently include source data from light-sheet imaging.
+Note: This code does not currently include source image data from light-sheet imaging.
 
 
 
