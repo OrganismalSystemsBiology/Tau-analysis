@@ -1,0 +1,54 @@
+id,acronym,node_name,graph_order,rgb_triplet,cell_count,volume(mm3),density(cells/mm3)
+184,FRP,"Frontal pole, cerebral cortex",6,"[38, 143, 69]",111546,0.9723,114724.2194
+500,MO,Somatomotor areas,12,"[31, 157, 90]",2795714,24.45744,114309.3589
+453,SS,Somatosensory areas,30,"[24, 128, 100]",5243537,33.33219,157311.5176
+1057,GU,Gustatory areas,107,"[0, 156, 117]",190657,1.76869,107795.7525
+677,VISC,Visceral area,114,"[17, 173, 131]",228276,2.35342,96997.48372
+247,AUD,Auditory areas,121,"[1, 147, 153]",767306,5.80086,132274.5391
+669,VIS,Visual areas,157,"[8, 133, 140]",2293263,13.45911,170387.4258
+31,ACA,Anterior cingulate area,220,"[64, 166, 102]",693193,5.53983,125128.9723
+972,PL,Prelimbic area,238,"[47, 168, 80]",310907,2.40823,129101.637
+44,ILA,Infralimbic area,245,"[89, 179, 99]",122367,0.84317,145126.9944
+714,ORB,Orbital area,252,"[36, 138, 94]",820383,5.90188,139003.7912
+95,AI,Agranular insular area,278,"[33, 152, 102]",784215,7.89742,99300.12761
+254,RSP,Retrosplenial area,297,"[26, 166, 152]",1836986,10.50098,174934.6475
+22,PTLp,Posterior parietal association areas,339,"[0, 159, 172]",414449,2.454,168887.1231
+541,TEa,Temporal association areas,360,"[21, 176, 179]",352432,3.10627,113458.4233
+895,ECT,Ectorhinal area,373,"[13, 159, 145]",165760,1.71188,96829.49982
+507,MOB,Main olfactory bulb,380,"[154, 210, 189]",4700148,16.46325,285493.326
+151,AOB,Accessory olfactory bulb,386,"[157, 240, 210]",169709,0.65153,260477.1452
+159,AON,Anterior olfactory nucleus,390,"[84, 191, 148]",691260,4.8697,141951.1585
+589,TT,Taenia tecta,398,"[98, 208, 159]",149642,1.44423,103613.3765
+814,DP,Dorsal peduncular area,410,"[164, 218, 164]",69373,0.50181,138244.8624
+961,PIR,Piriform area,416,"[106, 203, 186]",1078847,11.56566,93280.22351
+619,NLOT,Nucleus of the lateral olfactory tract,421,"[149, 228, 200]",35641,0.31867,111842.3143
+631,COA,Cortical amygdalar area,426,"[97, 231, 183]",325253,3.26505,99616.64027
+788,PAA,Piriform-amygdalar area,444,"[89, 218, 171]",62217,1.19125,52228.33158
+566,TR,Postpiriform transition area,449,"[168, 236, 211]",138503,1.39856,99032.39934
+1080,HIP,Hippocampal region,455,"[126, 208, 75]",3095490,23.73186,130436.0502
+822,RHP,Retrohippocampal region,492,"[50, 184, 37]",2201435,18.49402,119034.9919
+703,CTXsp,Cortical subplate,555,"[138, 218, 135]",1062622,8.90584,119317.3864
+485,STRd,Striatum dorsal region,572,"[152, 214, 249]",3714182,26.01934,142746.9515
+493,STRv,Striatum ventral region,574,"[128, 205, 248]",1277809,8.64909,147739.0623
+275,LSX,Lateral septal complex,585,"[144, 203, 237]",451589,3.56273,126753.4855
+278,sAMY,Striatum-like amygdalar nuclei,592,"[128, 192, 226]",547804,4.04783,135332.8212
+818,PALd,"Pallidum, dorsal region",609,"[133, 153, 204]",220187,1.98772,110773.7199
+835,PALv,"Pallidum, ventral region",612,"[162, 177, 216]",402436,3.39242,118627.9345
+826,PALm,"Pallidum, medial region",615,"[150, 167, 211]",213855,1.50986,141639.0185
+809,PALc,"Pallidum, caudal region",620,"[179, 192, 223]",196492,1.34805,145760.51
+864,DORsm,"Thalamus, sensory-motor cortex related",642,"[255, 128, 132]",842012,6.67772,126092.7618
+856,DORpm,"Thalamus, polymodal association cortex related",666,"[255, 144, 159]",1811409,12.67975,142858.416
+157,PVZ,Periventricular zone,716,"[255, 93, 80]",98188,0.77819,126175.247
+141,PVR,Periventricular region,734,"[255, 85, 71]",311055,2.04972,151754.9664
+467,MEZ,Hypothalamic medial zone,756,"[255, 76, 62]",602122,3.84598,156558.6184
+290,LZ,Hypothalamic lateral zone,793,"[242, 72, 59]",754270,5.68622,132648.7835
+339,MBsen,"Midbrain, sensory related",807,"[255, 122, 255]",1203710,6.85923,175487.5157
+323,MBmot,"Midbrain, motor related",821,"[255, 144, 255]",2984901,21.29567,140164.6784
+348,MBsta,"Midbrain, behavioral state related",865,"[255, 144, 255]",225635,1.82331,123750.0429
+1132,P-sen,"Pons, sensory related",884,"[255, 174, 111]",523380,3.84303,136189.3687
+987,P-mot,"Pons, motor related",906,"[255, 186, 134]",741595,5.79327,128009.839
+1117,P-sat,"Pons, behavioral state related",924,"[255, 195, 149]",420977,3.45681,121781.8438
+386,MY-sen,"Medulla, sensory related",936,"[255, 165, 210]",1017383,7.93606,128197.4531
+370,MY-mot,"Medulla, motor related",964,"[255, 179, 217]",1964703,17.49013,112332.1303
+379,MY-sat,"Medulla, behavioral state related",1010,"[255, 198, 226]",29695,0.22575,131539.3134
+512,CB,Cerebellum,1014,"[240, 240, 128]",15470895,53.82927,287406.7632
