@@ -10,7 +10,7 @@ The basic procedure for analyzing whole-brain tau depositions consists of the fo
 1. Expert Review: Initially, raw data undergo a thorough review by experts to exclude any non-specifically stained anatomical regions.
 2. Voxel Scale Normalization: Data are normalized to a resolution of 8.3x8.3x8.3 µm to ensure uniformity across different datasets.
 3. Tau Deposition ROI Extraction: Regions of interest (ROIs) for tau deposition are identified using a Gaussian-mean difference method. This is implemented in the **Tau extraction.ipynb** notebook.
-4. CUBIC-Cloud Registration: Following ROI extraction, data are registered to a mouse brain atlas using CUBIC-Cloud, a software tool designed for whole-brain visualization and analysis. The guidelines were detailed in Mano T et al., CellRepMethods, 2021 ([DOI](https://doi.org/10.1016/j.crmeth.2021.100038)https://doi.org/10.1016/j.crmeth.2021.100038).
+4. CUBIC-Cloud Registration: Following ROI extraction, data are registered to a mouse brain atlas using CUBIC-Cloud (https://cubic-cloud.com/), a software tool designed for whole-brain visualization and analysis. The guidelines were detailed in Mano T et al., CellRepMethods, 2021 ([DOI](https://doi.org/10.1016/j.crmeth.2021.100038)https://doi.org/10.1016/j.crmeth.2021.100038).
 
 ## Advanced Analysis
 Further analysis is conducted through the following advanced procedures:
