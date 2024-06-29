@@ -18,6 +18,11 @@ Further analysis is conducted through the following advanced procedures:
 1. Tau Gradient Consensus Analysis: Detailed workflow for consensus analysis on tau gradients, structured in **Tau gradient consensus analysis.ipynb**.
 2. Whole Brain Data Visualization: Comprehensive tools and methods for visualizing the whole brain pTau depositions data, structured in **Tau gradient consensus analysis.ipynb**.
 
+## Summary of results
+1. Summary of Regional pTau Depositions: Refer to Supplementary Table 1, "**Supplementary Table 1. Regional tau profile data with each anatomical annotation.xlsx**" for a detailed breakdown.
+2. Source pTau Distribution Data for Three Samples: See Supplementary Table 2, "**Supplementary Table 2. Source data for single-deposition-level tau profiles from three 18-month-old Rosa26-KI Tau++tTA+ mice**" for specific data.
+Note: This code does not currently include source data from light-sheet imaging.
+
 ## System Requirements
 This code has been tested on a CentOS Linux release 7.9.2009 (Core) PC within a Python 3.6.8 virtualenv environment.
 
