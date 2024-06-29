@@ -21,6 +21,7 @@ Further analysis is conducted through the following advanced procedures:
 ## Summary of results
 1. Summary of Regional pTau Depositions: Refer to Supplementary Table 1, "**Supplementary Table 1. Regional tau profile data with each anatomical annotation.xlsx**" for a detailed breakdown.
 2. Source pTau Distribution Data for Three Samples: See Supplementary Table 2, "**Supplementary Table 2. Source data for single-deposition-level tau profiles from three 18-month-old Rosa26-KI Tau++tTA+ mice**" for specific data.
+
 Note: This code does not currently include source data from light-sheet imaging.
 
 ## System Requirements
@@ -30,5 +31,6 @@ This code has been tested on a CentOS Linux release 7.9.2009 (Core) PC within a 
 If you utilize this code in your research, please cite our paper:
 #### A Novel Tauopathy Model Mimicking Molecular and Spatial Aspects of Human Tau Pathology
 Authors: Rin Yanai, Tomoki T. Mitani, Etsuo A. Susaki, Takeharu Minamihisamatsu, Masafumi Shimojo, Yuri Saito, Hiroshi Mizuma, Nobuhiro Nitta, Daita Kaneda, Yoshio Hashizume, Gen Matsumoto, Kentaro Tanemura, Ming-Rong Zhang, Makoto Higuchi, Hiroki R. Ueda, Naruhiko Sahara.
+
 Journal: Brain Communications, 2024 (Accepted)
 DOI: under preparation
