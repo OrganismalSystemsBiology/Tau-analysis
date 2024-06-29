@@ -28,7 +28,7 @@ This code has been tested on a CentOS Linux release 7.9.2009 (Core) PC within a 
 
 ## Citation
 If you utilize this code in your research, please cite our paper:
-### A Novel Tauopathy Model Mimicking Molecular and Spatial Aspects of Human Tau Pathology
+#### A Novel Tauopathy Model Mimicking Molecular and Spatial Aspects of Human Tau Pathology
 Authors: Rin Yanai, Tomoki T. Mitani, Etsuo A. Susaki, Takeharu Minamihisamatsu, Masafumi Shimojo, Yuri Saito, Hiroshi Mizuma, Nobuhiro Nitta, Daita Kaneda, Yoshio Hashizume, Gen Matsumoto, Kentaro Tanemura, Ming-Rong Zhang, Makoto Higuchi, Hiroki R. Ueda, Naruhiko Sahara.
 Journal: Brain Communications, 2024 (Accepted)
 DOI: under preparation
