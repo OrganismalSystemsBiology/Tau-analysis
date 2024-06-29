@@ -3,8 +3,10 @@ This repository contains code for the whole-brain-scale analysis of pTau deposit
 
 
 
+
 ## Overview
 The primary objective of this code is to facilitate the identification and analysis of pTau protein deposition patterns across the entire brain. Our methods integrate several advanced computational techniques and visualization tools to achieve this goal.
+
 
 
 
@@ -18,11 +20,15 @@ The basic procedure for analyzing whole-brain tau depositions consists of the fo
 
 
 
+
+
 ## Advanced Analysis
 Further analysis is conducted through the following advanced procedures:
 
 1. Tau Gradient Consensus Analysis: Detailed workflow for consensus analysis on tau gradients, structured in **Tau gradient consensus analysis.ipynb**.
 2. Whole Brain Data Visualization: Comprehensive tools and methods for visualizing the whole brain pTau depositions data, structured in **Tau gradient consensus analysis.ipynb**.
+
+
 
 
 
@@ -34,8 +40,12 @@ Note: This code does not currently include source data from light-sheet imaging.
 
 
 
+
+
 ## System Requirements
 This code has been tested on a CentOS Linux release 7.9.2009 (Core) PC within a Python 3.6.8 virtualenv environment.
+
+
 
 
 
