@@ -16,7 +16,7 @@ The basic procedure for analyzing whole-brain tau depositions consists of the fo
 Further analysis is conducted through the following advanced procedures:
 
 1. Tau Gradient Consensus Analysis: Detailed workflow for consensus analysis on tau gradients, structured in **Tau gradient consensus analysis.ipynb**.
-2. Whole Brain Data Visualization: Comprehensive tools and methods for visualizing the whole brain data, structured in **Tau gradient consensus analysis.ipynb**.
+2. Whole Brain Data Visualization: Comprehensive tools and methods for visualizing the whole brain pTau depositions data, structured in **Tau gradient consensus analysis.ipynb**.
 
 ## System Requirements
 This code has been tested on a CentOS Linux release 7.9.2009 (Core) PC within a Python 3.6.8 virtualenv environment.
@@ -27,8 +27,3 @@ If you utilize this code in your research, please cite our paper:
 Authors: Rin Yanai, Tomoki T. Mitani, Etsuo A. Susaki, Takeharu Minamihisamatsu, Masafumi Shimojo, Yuri Saito, Hiroshi Mizuma, Nobuhiro Nitta, Daita Kaneda, Yoshio Hashizume, Gen Matsumoto, Kentaro Tanemura, Ming-Rong Zhang, Makoto Higuchi, Hiroki R. Ueda, Naruhiko Sahara.
 Journal: Brain Communications, 2024 (Accepted)
 DOI: under preparation
-
-
-
-
-T
