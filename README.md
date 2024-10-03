@@ -54,6 +54,6 @@ If you utilize this code in your research, please cite our paper:
 #### A Novel Tauopathy Model Mimicking Molecular and Spatial Aspects of Human Tau Pathology
 Rin Yanai, Tomoki T. Mitani, Etsuo A. Susaki, Takeharu Minamihisamatsu, Masafumi Shimojo, Yuri Saito, Hiroshi Mizuma, Nobuhiro Nitta, Daita Kaneda, Yoshio Hashizume, Gen Matsumoto, Kentaro Tanemura, Ming-Rong Zhang, Makoto Higuchi, Hiroki R. Ueda, Naruhiko Sahara.
 
-Brain Communications, 2024 (in press)
+Brain Communications, Volume 6, Issue 5, 2024, fcae326,
 
 DOI: https://doi.org/10.1093/braincomms/fcae326
